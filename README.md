@@ -9,15 +9,15 @@ Large Scale Data Processing (CSE3025) J Component
 ● Open the localhost page and browse the file system.\
 ● Now, copy the weather dataset file into HDFS using the hdfs dfs –put command.\
 ● Finally, run the jar file by giving hadoop jar temperature.jar MyMaxMin [path for weather_data.txt in HDFS] [path for the output file in HDFS].\
-● Once the program runs successfully, browse the file system and go to the output file. Now download the part-r-00000 file from HDFS and the output for the program would be displayed here.\
+● Once the program runs successfully, browse the file system and go to the output file. Now download the part-r-00000 file from HDFS and the output for the program would be displayed here.
 
 ### Naïve Bayesian Classifier Implementation for Weather Prediction:
 ● Download the new_dataset.csv dataset and simplenaivebayes.py file.\
 ● Open the python file that contains code to find probabilities using the Naive Bayes classifier.\
-● And execute in python idle.\
+● And execute in python idle.
 
 
 ### Rainfall Prediction Using Linear Regression Model:
 ● Download the weather.csv dataset and main.py file.\
 ● Open the python file that contains code to find rainfall prediction using the linear regression model.\
-● And execute in python idle.\
+● And execute in python idle.
