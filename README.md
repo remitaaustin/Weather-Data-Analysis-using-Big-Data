@@ -1,6 +1,6 @@
 # Weather Data Analysis using Big Data
 Large Scale Data Processing (CSE3025) J Component
-
+##
 ### ● To find the hottest, coldest day from the data depending on temperature and comparing precipitation levels to find whether a particular day received light, moderate or heavy rains using Map-Reduce Programming:
 &emsp;&emsp;1. Download the weather_data.txt dataset and MyMaxMin.java file.\
 &emsp;&emsp;2. Open Eclipse software and open the java file. Build the path by configuring it and adding the necessary external jar file libraries in the classpath of the program.\
